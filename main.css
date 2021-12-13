@@ -1,15 +1,7 @@
-#first-heading {
-    color:red 
+img{
+    width:150px;
+
 }
-.second-heading {
-    color:green
+h1{
+    color:turquoise
 }
-li{
-    font-size: 30px;
-}
-table{
-    font-size: 30px;
-}
-    img{
-        font-size:200px,187px;
-    }
